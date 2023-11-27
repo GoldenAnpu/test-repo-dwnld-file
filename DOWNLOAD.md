@@ -1,6 +1,6 @@
 Dataset **gfgfgf** can be downloaded in [format](https://fgfdgd.gggg.com/api-references/fdghjyjt-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/b/J/kL/OwaJdMbXlpADeyDZ5ExE7R1bh2iMD7huzzZt8oBQv5Q6dX4gsglWwYmRrz2kiPtFWTvg3Z6N5FMqcZANdM3blbdzzqAVISTEYtBsQ194QLlHvN6Z5pfNNbAsGnwK.tar)
+ [Download](https://ufufufu.sdsd.com/ufufuuf-fufuufuf-sssdfgg-public/teams_storage/b/J/kL/OwaJdMbXlpADeyDZ5ExE7R1bh2iMD7huzzZt8oBQv5Q6dX4gsglWwYmRrz2kiPtFWTvg3Z6N5FMqcZANdM3blbdzzqAVISTEYtBsQ194QLlHvN6Z5pfNNbAsGnwK.tar)
 
 As an alternative, it can be downloaded with *something-else* package:
 ``` bash
