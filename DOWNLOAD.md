@@ -1,6 +1,6 @@
 Dataset **gfgfgf** can be downloaded in [format](https://fgfdgd.gggg.com/api-references/fdghjyjt-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/fdvtw6todxjnlbw8pu19z/51311_31960_VolumesExportImport.tar?rlkey=n01ycxlhio3tufirnvpw7lw0b&dl=1)
+ [Download](https://www.dropbox.com/scl/fi/)
 
 As an alternative, it can be downloaded with *something-else* package:
 ``` bash
